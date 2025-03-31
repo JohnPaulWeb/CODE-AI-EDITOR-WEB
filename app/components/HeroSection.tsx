@@ -42,7 +42,7 @@ export default function HeroSection() {
 
                             <div className="font-mono text-xs text-left overflow-hidden">
                                 <pre className="text-green-500">
-                                    <code>{'// Lets Collaborate in real time World export default function HeroSection() {}'}</code>
+                                    <code>{'// Lets Collaborate in real time World export default function HeroSection() {return()}'}</code>
                                 </pre>
                             </div>
                         </div>
@@ -50,6 +50,6 @@ export default function HeroSection() {
                 </div>
             </div>
         </div>
-       </section>
+       </section>   
     )
 }
