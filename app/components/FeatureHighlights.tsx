@@ -11,6 +11,7 @@ export default function FeatureHighlights() {
                         </div>
 
                         <h2 className="text-3xl font-bold tracking-tighter">Let be know if you need Anything.</h2>
+                        <p></p>
                     </div>
                 </div>
             </div>
